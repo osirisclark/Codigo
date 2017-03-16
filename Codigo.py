@@ -7,7 +7,7 @@
 
 \f0\fs24 \cf0 VitualEnvirotment\
 \
-$cd Desktop ( sis heiress poner tu virtual env en desktop\
+$cd Desktop ( ve a la carpeta en tu pc donde quieres instalar tu virtualenv, si quieres poner tu virtual env en desktop)
 $ pip3.6 install virtualenv\
 #despues crear el virtual env\
 \
